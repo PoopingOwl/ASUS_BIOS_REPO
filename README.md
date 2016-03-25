@@ -21,6 +21,7 @@ P8Z77-V Pro | Z77VP.CAP  | 2104 | Z77 | Updated | Yes
 P8Z77-V | Z77VB.CAP  | 2104 | Z77 | Updated | Yes
 P8Z77-V LK | P8Z77VLK.CAP  | 1402 | Z77 | Updated | Yes
 P8Z77-V LX | P8Z77VLX.CAP  | 2501 | Z77 | Updated | Yes
+P8Z77-I Deluxe | P8Z77ID.CAP  | 1201 | Z77 | Updated | Yes
 P8Z68 Deluxe | P8Z68D.ROM  | 3603 | Z68 | Updated | Yes
 
 <br />
@@ -29,9 +30,9 @@ P8Z68 Deluxe | P8Z68D.ROM  | 3603 | Z68 | Updated | Yes
 Model Name     | File Name  | Ver. | Intel | Microcode | PM Fix
 --------------:|:----------:|:----:|:-----:|:---------:|:-------
 ROG G20AJ | G20AJ.CAP  | 0703 | H97 | Updated | Yes
-B85-PRO GAMER | B85PGM.CAP | 2203 | B85 | Updated | Yes  
+B85-PRO GAMER | B85PGM.CAP | 2203 | B85 | Updated | Yes
 Sabertooth Z87 | Z87ST.CAP  | 2103 | Z87 | Updated | Yes
-Z97 Gryphon | Z97GP.CAP | 2501 | Z97 | From Asus | Yes  
+Z97 Gryphon | Z97GP.CAP | 2501 | Z97 | From Asus | Yes
 
 <br />
 **LGA 2011 (Intel x79 Series)**
