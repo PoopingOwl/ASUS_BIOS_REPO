@@ -48,4 +48,10 @@ ROG G20AJ Only supports haswell processors, so, there isn't any problem in updat
 X79 series, can't be MSR unlocked (Apple PM Patch). Probably, it is already.<br />
 <br />
 I'll add more models soon. You can ask me (issues tab), to include yours.<br />
-Just keep on mind that I'll not edit any bios that isn't from ASUS.
+Just keep on mind that I'll not edit any bios that isn't from ASUS.<br />
+<br />
+
+ADVANCED BIOS
+==============
+This is a version edited by me with MANY fixes/updates/mods, don't ask for an advanced bios for your board, I'll only add it if I have access to a PC with it.<br />
+<b>P8Z77-V DELUXE:</b> Intel ME updated to latest version, Intel vBios updated to latest version, many bios menus unlocked, latest microcode + all the previous edits from standard version.
