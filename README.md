@@ -1,17 +1,17 @@
-**ASUS UEFI BIOS MODDED REPOSITORY**
+<b>ASUS UEFI BIOS MODDED REPOSITORY</b>
 
 Bios Updates / Mods:<br />
 -MSR 0xE2 Unlocked (Apple PM Fix)<br />
--CPU MICROCODE UPDATED (Better OC)<br />
+-CPU MICROCODE UPDATED (Better OC Version)<br />
 -iGPU GOP UPDATED (Integrated GPU driver)<br />
 -LAN PXE UPDATED (Intel/Realtek/BCM)<br />
 -AHCI/RAID UPDATED (Intel/Marvel/JMicron) (Enable RAID TRIM on 6 & x79 Series)<br />
 -ASUS ROG LOGO (From Rampage IV Black)<br />
 
-Only Flash a BIOS for your MODEL!
+Only Flash the BIOS for your MODEL!
 ==================================
 
-**LGA 1155 (Intel 6/7 Series)**
+<b>LGA 1155 (Intel 6/7 Series)</b>
 
 Model Name     | File Name  | Ver. | Intel | Microcode | PM Fix
 --------------:|:----------:|:----:|:-----:|:---------:|:-------
@@ -25,7 +25,7 @@ P8Z77-I Deluxe | P8Z77ID.CAP  | 1201 | Z77 | Updated | Yes
 P8Z68 Deluxe | P8Z68D.ROM  | 3603 | Z68 | Updated | Yes
 
 <br />
-**LGA 1150 (Intel 8/9 Series)**
+<b>LGA 1150 (Intel 8/9 Series)</b>
 
 Model Name     | File Name  | Ver. | Intel | Microcode | PM Fix
 --------------:|:----------:|:----:|:-----:|:---------:|:-------
@@ -35,23 +35,18 @@ Sabertooth Z87 | Z87ST.CAP  | 2103 | Z87 | Updated | Yes
 Z97 Gryphon | Z97GP.CAP | 2501 | Z97 | From Asus | Yes
 
 <br />
-**LGA 2011 (Intel x79 Series)**
+<b>LGA 2011 (Intel x79 Series)</b>
 
 Model Name     | File Name  | Ver. | Intel | Microcode | PM Fix
 --------------:|:----------:|:----:|:-----:|:---------:|:-------
 P9X79 | P9X79.CAP | 4801 | X79 | Updated | No
 
 <br />
-**Attention:** <br />
-9 Series aren't able to update microcode, since it will disable one of the cpu generations (haswell/broadwell)<br />
-ROG G20AJ Only supports haswell processors, so, there isn't any problem in update it.<br />
-X79 series, can't be MSR unlocked (Apple PM Patch). Probably, it is already.<br />
+<b>Attention:</b> <br />
+-9 Series aren't able to update microcode, since it will disable one of the cpu generations supported (haswell/broadwell)<br />
+-ROG G20AJ only supports haswell processors, so, there isn't any problem in update it.<br />
+-X79 boards don't need to be MSR unlocked (Apple PM Patch).<br />
 <br />
-I'll add more models soon. You can ask me (issues tab), to include yours.<br />
-Just keep on mind that I'll not edit any bios that isn't from ASUS.<br />
+-I'll add more models soon. You can ask me (issues tab) to include yours.<br />
+-Just keep in mind that I'll not edit any bios that isn't from ASUS.<br />
 <br />
-
-ADVANCED BIOS
-==============
-This is a version edited by me with MANY fixes/updates/mods, don't ask for an advanced bios for your board, I'll only add it if I have access to a PC with it.<br />
-<b>P8Z77-V DELUXE:</b> Intel ME updated to latest version, Intel vBios updated to latest version, many bios menus unlocked, latest microcode + all the previous edits from standard version.
