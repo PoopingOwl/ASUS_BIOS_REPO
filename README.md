@@ -45,5 +45,7 @@ P9X79 | P9X79.CAP | 4801 | X79 | S-E.710/61A & I-E.428 | No
 <br />
 <b>READ BEFORE ASKING:</b> <br />
 -X79 boards don't need to be MSR unlocked (Apple PM Patch).<br />
--I'll add more models soon. You can ask me (issues tab) to include yours.<br />
--Just keep in mind that I'll not edit any bios that isn't from ASUS.
+-Use the ISSUES tab for requesting new models.<br />
+-Just keep in mind that I'll not edit any bios that isn't from ASUS.<br />
+-The folder ADVANCED contains BIOSes that have NVME support + many hidden menus unlocked.<br />
+-I'll only add ADVANCED BIOSes for models that I have in hand.
