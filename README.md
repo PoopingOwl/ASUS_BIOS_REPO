@@ -15,14 +15,17 @@ Only Flash the BIOS for your MODEL!
 
 Model Name     | File Name  | Ver. | Intel | Microcode | PM Fix
 --------------:|:----------:|:----:|:-----:|:---------:|:-------
+P8Z68 Deluxe | P8Z68D.ROM  | 3603 | Z68 | S.29 & I.1C | Yes
+P8Z68-V LX | P8Z68VLX.ROM  | 4105 | Z68 | S.29 & I.1C | Yes
 P8Z77-I Deluxe | P8Z77ID.CAP  | 1201 | Z77 | S.29 & I.1C | Yes
-P8Z77-V LK | P8Z77VLK.CAP  | 1402 | Z77 | S.29 & I.1C | Yes
+P8Z77-I Deluxe/WD | Z77IDWD.CAP  | 1101 | Z77 | S.29 & I.1C | Yes
+P8Z77-M | P8Z77M.CAP  | 2203 | Z77 | S.29 & I.1C | Yes
+P8Z77-V | Z77VB.CAP  | 2104 | Z77 | S.29 & I.1C | Yes
 P8Z77-V Deluxe | Z77VD.CAP  | 2104 | Z77 | S.29 & I.1C | Yes
+P8Z77-V LK | P8Z77VLK.CAP  | 1402 | Z77 | S.29 & I.1C | Yes
+P8Z77-V LX | P8Z77VLX.CAP  | 2501 | Z77 | S.29 & I.1C | Yes
 P8Z77-V Premium | Z77VPR.CAP  | 2104 | Z77 | S.29 & I.1C | Yes
 P8Z77-V Pro | Z77VP.CAP  | 2104 | Z77 | S.29 & I.1C | Yes
-P8Z77-V | Z77VB.CAP  | 2104 | Z77 | S.29 & I.1C | Yes
-P8Z77-V LX | P8Z77VLX.CAP  | 2501 | Z77 | S.29 & I.1C | Yes
-P8Z68 Deluxe | P8Z68D.ROM  | 3603 | Z68 | S.29 & I.1C | Yes
 
 <br />
 <b>LGA 1150 (Intel 8/9 Series)</b>
@@ -36,11 +39,12 @@ Z97-PRO GAMER | z97PROG.CAP | 2203 | Z97 | H.22 & B.17 | Yes
 Z97 Gryphon | Z97GP.CAP | 2501 | Z97 | H.22 & B.17 | Yes
 
 <br />
-<b>LGA 2011 (Intel x79 Series)</b>
+<b>LGA 2011 (Intel x79/x99 Series)</b>
 
 Model Name     | File Name  | Ver. | Intel | Microcode | PM Fix
 --------------:|:----------:|:----:|:-----:|:---------:|:-------
 P9X79 | P9X79.CAP | 4801 | X79 | S-E.710/61A & I-E.428 | No
+X99-A II | X99A2.CAP | 1701 | X99 | H-E.3A & B-E.21 | Yes
 
 <br />
 <b>READ BEFORE ASKING:</b> <br />
